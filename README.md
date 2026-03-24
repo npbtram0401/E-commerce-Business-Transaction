@@ -12,6 +12,9 @@ The dataset includes approximately 500,000 records and 8 key variables, covering
 - CustomerNo: a five-digit unique number that defines each customer
 - Country: name of the country where the customer resides
 
+Let's inspect the initial rows to analyze the data in its original format.
+
+
 |TransactionNo|Date|ProductNo|ProductName|Price|Quantity|CustomerNo|Country|
 |-------------|----|---------|-----------|-----|--------|----------|-------|
 |581482|12/9/2019|22485|Set Of 2 Wooden Market Crates|21.47|12|17490|United Kingdom|
