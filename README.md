@@ -28,3 +28,8 @@ Let's inspect the initial rows to analyze the data in its original format.
 |581475|12/9/2019|22217|T-Light Holder Hanging Lace|10.65|12|13069|United Kingdom|
 |581475|12/9/2019|22216|T-Light Holder White Lace|10.55|24|13069|United Kingdom|
 
+
+The following section outlines the key steps undertaken in the data analysis process.
+Step 1 - Data Preparation: Use Python to query, clean, and transform data (incorrect data types, missing values)
+Step 2 - Exploratory Data Analysis (EDA): Analyse and visualise data using Python
+Step 3 - Visualization & Dashboard: Build dashboards using BI tools
