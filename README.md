@@ -31,12 +31,90 @@ Let's inspect the initial rows to analyze the data in its original format.
 
 The following section outlines the key steps undertaken in the data analysis process.
 
-Step 1 - Data Preparation: Use Python to query, clean, and transform data (incorrect data types, missing values) - E_commerce_Business_Transaction.ipynb
+## 🔥 Step 1 - Data Preparation: Use Python to query, clean, and transform data (incorrect data types, missing values) - E_commerce_Business_Transaction.ipynb
 
-Step 2 - Exploratory Data Analysis (EDA): Analyse and visualise data using Python - E_commerce_Business_Transaction.ipynb
+## 🔥 Step 2 - Exploratory Data Analysis (EDA): Analyse and visualise data using Python - E_commerce_Business_Transaction.ipynb
 
-Step 3 - Visualization & Dashboard: Build dashboards using BI tools - Sales Transaction Overview.pbix
+## 🔥 Step 3 - Visualization & Dashboard: Build dashboards using BI tools - Sales Transaction Overview.pbix
 
 <img width="889" height="501" alt="image" src="https://github.com/user-attachments/assets/25d4edb2-8850-4659-a2b3-d9d3f8e1e330" />
+
+
+## 🔥 Step 4 – Key Insights & Recommendations
+
+### 📊 1. Sales Trend Insight
+	  
+Sales showed a strong upward trend toward the end of the year, peaking around months 10–11
+
+=> Seasonal demand, likely driven by holiday shopping periods
+  
+  👉 Recommendation:
+	
+•	Increase marketing campaigns and promotions during peak months
+	
+•	Prepare inventory in advance to avoid stock shortages
+
+### 🛍️ 2. Product Performance Insight
+
+The top-most ordered products account for strong customer preference and high demand for these specific products
+
+  👉 Recommendation:
+
+•	Focus on promoting top-selling products
+
+•	Slower-moving products should be sold up to increase overall sales
+
+
+### 👤 3. Customer Behaviour Insight 
+
+Suggests the presence of high-value customer segments
+
+👉 Recommendation:
+
+•	Implement loyalty programs and personalized offers
+
+•	Retarget high-value customers with exclusive promotions
+
+•	Improve customer retention strategies such as birthday discounts, loyalty rewards, and special occasion gifts
+
+
+### 🌍 4. Geographic Insight
+
+Revenue is concentrated in specific countries (mainly Europe/UK region), while some regions show low contribution
+
+👉 Recommendation:
+	
+  •	Expand marketing campaign in high-performing regions
+	
+  •	Explore root reasons and growth opportunities to modify in underperforming markets
+
+### ❌ 5. Cancellation Insight
+
+There is a noticeable number of cancelled transactions across months, leading to lost revenue and operational inefficiencies
+
+👉 Recommendation:
+
+•	Conduct a root cause analysis of cancelled transactions to uncover key drivers such as inventory shortages, fulfillment delays, or gaps in customer experience.
+
+•	Improve inventory management to reduce stockouts
+
+•	Provide real-time stock visibility to customers
+
+### 💸 6. AOV (Average Order Value) Insight
+
+AOV indicates moderate spending per transaction
+
+👉 Recommendation:
+
+•	Introduce upselling strategies
+
+•	Offer discounts for bulk purchases (e.g., buy more save more)
+
+•	Provide free shipping thresholds to increase basket size
+
+The analysis provides actionable insights to enhance revenue growth by optimizing product strategy, improving customer targeting, and reducing operational inefficiencies.
+
+
+
 
 
