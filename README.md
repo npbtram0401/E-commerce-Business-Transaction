@@ -1,4 +1,4 @@
-# E-commerce-Business-Transaction
+# E-commerce Business Transaction Analysis
 
 This dataset contains one year of sale transactional data from a UK-based online retail company specializing in gifts and homeware products for adults and children. The business operates primarily through an e-commerce platform and serves both individual customers and small retailers worldwide.
 
