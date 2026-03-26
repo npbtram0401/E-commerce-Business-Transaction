@@ -36,3 +36,7 @@ Step 1 - Data Preparation: Use Python to query, clean, and transform data (incor
 Step 2 - Exploratory Data Analysis (EDA): Analyse and visualise data using Python - E_commerce_Business_Transaction.ipynb
 
 Step 3 - Visualization & Dashboard: Build dashboards using BI tools - Sales Transaction Overview.pbix
+
+<img width="889" height="501" alt="image" src="https://github.com/user-attachments/assets/25d4edb2-8850-4659-a2b3-d9d3f8e1e330" />
+
+
